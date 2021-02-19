@@ -3,7 +3,7 @@ Integrative project made during the computational maths course.
 
 
 ## Functionality
-**A program that reads from a file the elements that define a context-free grammar and apply the top-down 
+**A program that reads from a file the elements that define a context-free grammar and applies the top-down 
 parsing process for strings given by the user.**
 
 The grammar must be defined in a txt file. The file shall be defined as follows:
