@@ -21,8 +21,18 @@ found for the string.
 
 The outcome of this process is a png image of the parsing tree.
 
+## Dependencies
+The functionality of this project relies on the graphviz visualization software to compile the generated dot file into a png image file.
 
-###### Important
+To install graphviz on windows follow the instructions here: [Graphviz windows installation](https://forum.graphviz.org/t/new-simplified-installation-procedure-on-windows/224).
+
+Remember to add the bin folder path from the Graphviz installation ```(C:\Program Files\Graphviz 2.44.1\bin)``` to the 
+system environment variables and restart your pc.
+
+
+#### Important notes
+> This program is built to work on Windows OS.
+> 
 > This program doesn't validate the values in the input file, it assumes that they were built correctly.
 
 ## Built with
