@@ -38,4 +38,4 @@ system environment variables and restart your pc.
 ## Built with
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Graphviz Badge](https://img.shields.io/badge/Graphviz-969696?style=flat-square&logoColor=white)
-![Dot files Badge](https://img.shields.io/badge/Dot_files-006C66?style=flat-square&logoColor=white)
+![DOT graph description language Badge](https://img.shields.io/badge/DOT_graph_files-006C66?style=flat-square&logoColor=white)
