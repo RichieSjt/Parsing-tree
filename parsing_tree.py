@@ -11,7 +11,7 @@ def final_path(node):
         node.is_final = True
         final_path(node.parent)
     except AttributeError:
-        #Root node has None set as its paren, so when trying to
+        #Root node has None set as its parent, so when trying to
         #access its is_final property the NoneType raises an AttributeError.
         pass
 
