@@ -1,7 +1,3 @@
-#Authors:
-#RichieSjt https://github.com/RichieSjt
-#EduardoHJ https://github.com/EduardoHerreraJ
-
 import re
 from Node import Node
 from cmd_tree import print_tree

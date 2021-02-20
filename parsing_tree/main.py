@@ -1,3 +1,7 @@
+# Authors:
+# RichieSjt https://github.com/RichieSjt
+# EduardoHerreraJ https://github.com/EduardoHerreraJ
+
 from parsing_tree import generate_parsing_tree
 from visual_tree import visualize_tree
 
