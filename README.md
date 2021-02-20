@@ -1,5 +1,5 @@
 # Parsing-tree
-Integrative project made during the computational maths course.
+Integrative project carried out for the computational mathematics course.
 
 
 ## Functionality
